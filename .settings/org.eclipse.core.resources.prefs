@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//interview/admin.py=utf8
+encoding//interview/migrations/0001_initial.py=utf-8
+encoding//interview/models.py=utf8
+encoding//interview/views.py=utf8
+encoding//management/commands/loadmodels.py=utf-8
